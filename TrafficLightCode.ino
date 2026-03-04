@@ -1,6 +1,6 @@
 /*
 Project: Traffic Light Simulation
-File Name: TrafficLight.ino
+File Name: TrafficLightCode.ino
 
 Programming Language:
 C++ (Arduino Framework)
