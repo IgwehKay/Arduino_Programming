@@ -2,6 +2,7 @@
 Project: Automatic Rotation Controller
 File: AutoRotationController.ino
 Language: C++ (Arduino Framework)
+Link: https://www.tinkercad.com/things/kXNV4MsyIiN-automatic-rotation-controller/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=sIASZc8dt2Y5o4w1RAFIRMjni1Ng2Paf_vU0WEzvfuE
 
 Description:
 - Automatically alternates between clockwise (CW) and anticlockwise (ACW) LEDs.
