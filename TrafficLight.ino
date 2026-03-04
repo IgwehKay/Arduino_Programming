@@ -1,4 +1,29 @@
-// Traffic Light Simulation using Arduino LEDs (written in C++)
+/*
+Project: Traffic Light Simulation
+File Name: TrafficLight.ino
+
+Programming Language:
+C++ (Arduino Framework)
+
+Simulation Link:
+ https://www.tinkercad.com/things/5v56fLbzdJk/editel?sharecode=JlhfrvMiHM9mBp0TYKD7Kpra5NxuEfRPEh_fADBrclM
+
+Description:
+This program simulates a basic traffic light system using three LEDs connected to an Arduino board.
+
+Traffic Light Sequence:
+
+1. Red ON (Stop) – 2 seconds
+2. Yellow ON, Red OFF (Prepare to move) – 2 seconds
+3. Green ON, Yellow OFF (Go) – 2 seconds
+4. Yellow ON, Green OFF (Prepare to stop) – 2 seconds
+5. Yellow OFF → Loop restarts
+
+Hardware Connections:
+Red LED    → Pin 7
+Yellow LED → Pin 6
+Green LED  → Pin 5
+*/
 
 int redPin = 7;        // Pin connected to Red LED
 int yellowPin = 6;     // Pin connected to Yellow LED
