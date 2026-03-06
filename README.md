@@ -1,6 +1,3 @@
-# Arduino_Programming
-You should include that because it **shows practical simulation experience**, which is valuable when you don’t have physical hardware. Here is an **improved README** that mentions **Tinkercad simulation** clearly but briefly.
-
 ---
 
 # Arduino Programming Projects (C++)
