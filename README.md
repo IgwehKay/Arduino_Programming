@@ -1,4 +1,3 @@
----
 
 # Arduino Programming Projects (C++)
 
@@ -45,5 +44,3 @@ Future updates may include:
 * More advanced embedded control systems
 * Robotics-related Arduino projects
 * Real hardware implementation
-
----
